@@ -6,6 +6,6 @@ Language used:
 Python
 
 Note:
-Type the input in the form of "ax^2+bx+c".
-As opposed to C language where a,b,c values where inputed individually, in python typing the whole equation as the input is possible.
+Type the input in the form of "a b c", for the equation ax^2+bx+c.
+
 
